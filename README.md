@@ -1,4 +1,4 @@
-### Hello there, I'm Daniel - aka [TerpDev](https://github.com/TerpDev) ✌
+### Hello there, I'm Daniel T - aka [TerpDev](https://github.com/TerpDev) ✌
 
 ## I'm a student and beginning developer
 - 🎓 I'm currently undergoing my university studies at [ROC Twente](https://www.rocvantwente.nl/)
@@ -31,7 +31,7 @@
 ---
 [![Discord Presence](https://lanyard.cnrad.dev/api/512580871375814678)](https://discord.com/users/512580871375814678)
 
-<img width="500px" alt="TerpDev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TerpDev&theme=github_dark&show_icons=true&hide_border=true" />
-<img width="500px" alt="TerpDev's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TerpDev&layout=compact&theme=github_dark&show_icons=true&hide_border=true" />
+<img width="500px" alt="Daniel" src="https://github-readme-stats.vercel.app/api?username=TerpDev&theme=github_dark&show_icons=true&hide_border=true" />
+<img width="500px" alt="Daniel" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TerpDev&layout=compact&theme=github_dark&show_icons=true&hide_border=true" />
 
 [website]: https://github.com/TerpDev
