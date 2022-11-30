@@ -4,7 +4,6 @@
 - 🎓 I'm currently undergoing my university studies at [ROC Twente](https://www.rocvantwente.nl/)
 - 📚 I’m currently learning C# and HTML/CSS and Im trying to learn LUA
 - 🥅 2022 Goals: Learn more about develepment and make nice projects
-- ⚡ Fun fact: I prefer backend development over frontend development
 
 ### Connect with me:
 
