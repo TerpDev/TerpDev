@@ -1,4 +1,4 @@
-### Hello there, I'm Daniel T - aka [TerpDev](https://github.com/TerpDev) ✌
+### Hello there, I'm Daniel T - aka [TerpieDev](https://github.com/TerpDev) ✌
 
 ## I'm a student and beginning developer
 - 🎓 I'm currently undergoing my university studies at [ROC Twente](https://www.rocvantwente.nl/)
