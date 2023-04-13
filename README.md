@@ -2,8 +2,8 @@
 
 ## I'm a student and beginning developer
 - 🎓 I'm currently undergoing my university studies at [ROC Twente](https://www.rocvantwente.nl/)
-- 📚 I’m currently learning C# and HTML/CSS and Im trying to learn LUA
-- 🥅 2022 Goals: Learn more about develepment and make nice projects
+- 📚 I’m currently learning C# and HTML/CSS and Im learning The Game Engine Unity
+- 🥅 2023 Goals: Learn alot about C# and HTML/CSS and become good at unity and finish my first year of my school
 
 ### Connect with me:
 
