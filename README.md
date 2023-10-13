@@ -16,7 +16,6 @@
 
 ### Languages and Tools:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
-[<img align="left" alt="Rider" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/JetBrains_Rider_Icon.svg/1200px-JetBrains_Rider_Icon.svg.png" />][website]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
@@ -28,7 +27,7 @@
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FTerpDev%2FTerpDev&label=Visitors&countColor=%2314D0E0)
 ---
-[![Discord Presence](https://lanyard.cnrad.dev/api/512580871375814678)](https://discord.com/users/512580871375814678)
+[![Discord Presence]()](https://discord.com/users/512580871375814678)
 
 <img width="500px" alt="Daniel" src="https://github-readme-stats.vercel.app/api?username=TerpDev&theme=github_dark&show_icons=true&hide_border=true" />
 <img width="500px" alt="Daniel" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TerpDev&layout=compact&theme=github_dark&show_icons=true&hide_border=true" />
