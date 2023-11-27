@@ -29,8 +29,8 @@ I'm a student and aspiring developer, currently honing my skills at [ROC Twente]
 ### 🚀 2023 Goals:
 
 - Achieve mastery in **C#** and **HTML/CSS**.
-- Develop and complete my first Unity game project.
-- Successfully finish my first year at [ROC Twente](https://www.rocvantwente.nl/).
+- Learn more about developing with making games and website's
+- I'm now in year 2 of my study
 
 ### 📊 GitHub Stats:
 
