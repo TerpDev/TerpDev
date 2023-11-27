@@ -1,38 +1,40 @@
-### Hello there, I'm Daniel T - aka [TerpieDev](https://github.com/TerpDev) ✌
+### Hi there, I'm Daniel Terpstra - aka Terpdev 👋
 
-## I'm a student and beginning developer
-- 🎓 I'm currently undergoing my university studies at [ROC Twente](https://www.rocvantwente.nl/)
-- 📚 I’m currently learning C# and HTML/CSS and I'm learning The Game Engine Unity
-- 🥅 2023 Goals: Learn a lot about C# and HTML/CSS, become proficient in Unity, and finish my first year of school
+I'm a student and aspiring developer, currently honing my skills at [ROC Twente](https://www.rocvantwente.nl/). Here's a bit about my coding journey:
 
-### Connect with me:
+- 📚 I'm proficient in **C#**, **HTML/CSS**, **JavaScript**, and **GIT**.
+- 🕹️ Currently, I'm diving into the world of game development using **Unity**.
+- 🎓 My academic journey involves ongoing studies at [ROC Twente](https://www.rocvantwente.nl/).
 
-<img align="left" alt="Discord" width="25px" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" /> privatevoid<br>
-<br>
-<img align="left" alt="GMail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"/> danielterpstra006@gmail.com<br>
-<br>
-<img align="left" alt="Github" width="22px" src="https://assets.ifttt.com/images/channels/2107379463/icons/monochrome_large.png" /> [github.com/TerpDev](https://github.com/TerpDev)
+### 🔧 Languages and Tools:
 
-### Languages and Tools:
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
-[<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/csharp/csharp.png" />][website]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/javascript/javascript.png" />][website]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
-<br />
+### 🌱 Currently Learning:
 
----
+- Mastering the intricacies of **C#** and **HTML/CSS**.
+- Exploring advanced concepts in **Unity** game development.
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FTerpDev%2FTerpDev&label=Visitors&countColor=%2314D0E0)
+### 🤝 Connect with Me:
 
----
+- Discord: privatevoid
+- Email: danielterpstra006@gmail.com
+- GitHub: [Terpdev](https://github.com/TerpDev)
 
-[![Discord Presence]()](https://discord.com/users/512580871375814678)
+### 🚀 2023 Goals:
 
-<img width="500px" alt="Daniel" src="https://github-readme-stats.vercel.app/api?username=TerpDev&theme=github_dark&show_icons=true&hide_border=true" />
-<img width="500px" alt="Daniel" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TerpDev&layout=compact&theme=github_dark&show_icons=true&hide_border=true" />
+- Achieve mastery in **C#** and **HTML/CSS**.
+- Develop and complete my first Unity game project.
+- Successfully finish my first year at [ROC Twente](https://www.rocvantwente.nl/).
 
-[website]: https://github.com/TerpDev
+### 📊 GitHub Stats:
+
+![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TerpDev&theme=dark&show_icons=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TerpDev&layout=compact&theme=dark&show_icons=true&hide_border=true)
+
+Feel free to connect and explore my projects. Happy coding! 🚀
