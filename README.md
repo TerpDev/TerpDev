@@ -26,7 +26,7 @@ I'm a student and aspiring developer, currently honing my skills at [ROC Twente]
 - Email: danielterpstra006@gmail.com
 - GitHub: [Terpdev](https://github.com/TerpDev)
 
-### 🚀 2023 Goals:
+### 🚀 2024 Goals:
 
 - Achieve mastery in **C#** and **HTML/CSS**.
 - Learn more about developing with making games and website's
