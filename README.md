@@ -1,9 +1,9 @@
 ### Hi there, I'm Daniel Terpstra - aka Terpdev 👋
 
-I'm a student and aspiring developer, currently honing my skills at [ROC Twente](https://www.rocvantwente.nl/). Here's a bit about my coding journey:
+I'm a student and aspiring developer, currently learning my skills at home and at [ROC Twente](https://www.rocvantwente.nl/). Here's a bit about my coding journey:
 
-- 📚 I'm proficient in **HTML/CSS**, **Vuejs**, **Primevue**, **Laravel**, **Tailwindcss**, **JavaScript**, and **GIT**, **C#**.
-- 💻 Currently, I'm diving into the world of Web/App development using **Laravel**, **Vuejs**, **Primevue**, **Tailwindcss**.
+- 📚 I'm proficient in **HTML/CSS**, **Vuejs**, **Primevue**, **Laravel**, **Tailwindcss**, **Linux**, **JavaScript**, **GIT** and **C#**.
+- 💻 Currently, I'm diving into the world of Web/App development using **Laravel**, **Vuejs**, **Primevue** and **Tailwindcss**.
 - 🎓 My academic journey involves ongoing studies at [ROC Twente](https://www.rocvantwente.nl/).
 
 ### 🔧 Languages and Tools:
@@ -17,20 +17,19 @@ I'm a student and aspiring developer, currently honing my skills at [ROC Twente]
 
 ### 🌱 Currently Learning:
 
-- Mastering the intricacies of **C#** and **HTML/CSS**.
-- Exploring advanced concepts in **Unity** game development.
+- 💻 Currently, I'm mastering in **HTML/CSS**, **Laravel**, **Vuejs**, **Primevue**, **Tailwindcss** and **Linux**.
+- 📱 Exploring advanced concepts in **This above** Web/App development.
 
 ### 🤝 Connect with Me:
 
-- Discord: privatevoid
-- Email: danielterpstra006@gmail.com
-- GitHub: [Terpdev](https://github.com/TerpDev)
+- 🤖 Discord: privatevoid
+- 💼 Email: danielterpstra006@gmail.com
+- ⭐ GitHub: [Terpdev](https://github.com/TerpDev)
 
-### 🚀 2024 Goals:
+### 🚀 Goals:
 
-- Achieve mastery in **C#** and **HTML/CSS**.
-- Learn more about developing with making games and website's
-- I'm now in year 2 of my study
+- Achieve mastery in Web/App development with **HTML/CSS**, **Laravel**, **Vuejs**, **Primevue**, **Tailwindcss** and **Linux**.
+- Make more advanced and more nicer website's
 
 ### 📊 GitHub Stats:
 
