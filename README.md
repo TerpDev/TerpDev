@@ -3,7 +3,7 @@
 I'm a student and aspiring developer, currently honing my skills at [ROC Twente](https://www.rocvantwente.nl/). Here's a bit about my coding journey:
 
 - 📚 I'm proficient in **HTML/CSS**, **Vuejs**, **Primevue**, **Laravel**, **Tailwindcss**, **JavaScript**, and **GIT**, **C#**.
-- 🕹️ Currently, I'm diving into the world of game development using **Unity**.
+- 💻 Currently, I'm diving into the world of Web/App development using **Laravel**, **Vuejs**, **Primevue**, **Tailwindcss**.
 - 🎓 My academic journey involves ongoing studies at [ROC Twente](https://www.rocvantwente.nl/).
 
 ### 🔧 Languages and Tools:
