@@ -19,6 +19,7 @@ I'm a student and aspiring developer, currently learning my skills at home and a
 
 - 💻 Currently, I'm mastering in **HTML/CSS**, **Laravel**, **Vuejs**, **Primevue**, **Tailwindcss** and **Linux**.
 - 📱 Exploring advanced concepts in **This above** Web/App development.
+- 💼 Portfolio currently in the making ⏳
 
 ### 🤝 Connect with Me:
 
