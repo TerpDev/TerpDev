@@ -76,8 +76,3 @@ I regularly work with and study:
   <img src="https://github-readme-stats.vercel.app/api?username=TerpDev&theme=radical&show_icons=true&hide_border=true" alt="Daniel's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TerpDev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
-
----
-
-⭐ *“Code. Learn. Build. Repeat.”*  
-> _Always improving, always building._ 💜  
