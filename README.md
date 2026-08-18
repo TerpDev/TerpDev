@@ -62,7 +62,7 @@ I regularly work with and study:
 
 ---
 
-### 🎯 Goals for 2025  
+### 🎯 Goals for 2026  
 - 🚀 Master the **TALL stack** and **modern web architecture**  
 - 🧱 Build scalable full-stack apps with smooth user experiences  
 - 🌍 Launch my personal website & freelance portfolio  
