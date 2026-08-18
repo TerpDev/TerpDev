@@ -1,13 +1,13 @@
 <h1 align="center">👋 Hi there, I'm <span style="color:#a855f7;">Daniel Terpstra</span> — aka <strong>Terpdev</strong></h1>
 
 <p align="center">
-  🎓 Student • 💻 Aspiring Software Developer • 🌍 Based in Enschede, NL  
+  🎓 Graduate • 💻 Aspiring Software Developer • 🌍 Based in Enschede, NL  
 </p>
 
 ---
 
 ### 🚀 About Me  
-I'm a passionate student developer currently studying at [ROC van Twente](https://www.rocvantwente.nl/).  
+I'm a passionate Junior developer currently gratuated at [ROC van Twente](https://www.rocvantwente.nl/).  
 My journey started during the corona period — spending hours on my computer led me to discover how much I love technology.  
 I began by taking computers apart and rebuilding them, and that curiosity quickly evolved into a passion for **web and app development**.
 
