@@ -47,7 +47,7 @@ I regularly work with and study:
 ---
 
 ### 🌱 What I’m Working On  
-- 🔧 Building and maintaining my **portfolio website** (coming soon at [TerpDev.dev](https://terpdev.dev))  
+- 🔧 Building and maintaining my **portfolio website** https://terpdev.dev/
 - 💻 Experimenting with **Laravel + Vue** for hybrid web apps  
 - 🧩 Learning **full-stack component-based development** with the **TALL stack**  
 - ⚡ Improving UI/UX design skills and animation techniques  
